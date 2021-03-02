@@ -66,3 +66,6 @@ newQuote.addEventListener('click', () => {
     getQuote(); 
 })
 
+getQuote(); 
+
+
